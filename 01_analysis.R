@@ -1,8 +1,8 @@
 # source: Stanford's Big Local News twitter data
 # https://biglocalnews.org/
 
-#pulls data directly from the Stanford BLS site 
-#an alternative if need be is archived verion stored in archived_data directory
+# import code below pulls data directly from the Stanford BLS site 
+# an alternative if need be is archived verion stored in archived_data directory
 
 library(tidyverse)
 library(janitor)
@@ -54,6 +54,7 @@ selectedcols %>%
   count(speaker)
 
 
+
 #begin the text analysis - FREQUENCY COUNTS ---------------------------------------------
 
 speaker_words <- selectedcols %>%
@@ -83,6 +84,8 @@ top_word_per_speaker <- speaker_words %>%
   top_n(15) %>%
   slice(1:10) %>% #added to limit to 10 records per cand, even with ties 
   ungroup
+
+top_word_per_speaker
 
 #save to file
 write_csv(top_word_per_speaker, "output/top_singleword_perspeaker.csv")
@@ -133,6 +136,8 @@ top_bigrams_per_speaker <- speaker_bigrams %>%
   slice(1:10) %>% #added to limit to 10 records per cand, even with ties 
   ungroup
 
+top_bigrams_per_speaker
+
 #save to file
 write_csv(top_bigrams_per_speaker, "output/top_bigrams_perspeaker.csv")
 
@@ -141,8 +146,6 @@ write_csv(top_bigrams_per_speaker, "output/top_bigrams_perspeaker.csv")
 
 
 ### TD-IDF ANALYSIS --------------------------------------------------------
-
-
 
 speaker_words <- speaker_words %>%
   bind_tf_idf(word, speaker, n)
@@ -166,6 +169,8 @@ top_tfidf_per_speaker <- speaker_words %>%
   top_n(15) %>%
   slice(1:10) %>% #added to limit to 10 records per cand, even with ties 
   ungroup
+
+top_tfidf_per_speaker
 
 #save to file
 write_csv(top_tfidf_per_speaker, "output/tfidf_singleword_perspeaker.csv")
@@ -251,9 +256,10 @@ top_tfidf_per_speaker_bigrams <- speaker_bigrams_tfidf %>%
   slice(1:10) %>% #added to limit to 10 records per cand, even with ties 
   ungroup
 
+top_tfidf_per_speaker_bigrams
+
 #save to file
 write_csv(top_tfidf_per_speaker_bigrams, "output/tfidf_bigrams_speaker.csv")
-
 
 
 #visualizing bi-grams ####
@@ -275,6 +281,6 @@ speaker_tfidf_chart_bigrams <- speaker_bigrams_tfidf %>%
 speaker_tfidf_chart_bigrams 
 
 #save chart images to file
-ggsave("img/speaker_tfidf_chart_bigrams.jpg", speaker_tfidf_chart_bigrams)
-ggsave("img/speaker_tfidf_chart_bigrams.pdf", speaker_tfidf_chart_bigrams)
+# ggsave("img/speaker_tfidf_chart_bigrams.jpg", speaker_tfidf_chart_bigrams)
+# ggsave("img/speaker_tfidf_chart_bigrams.pdf", speaker_tfidf_chart_bigrams)
 
