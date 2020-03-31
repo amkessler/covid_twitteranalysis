@@ -43,14 +43,20 @@ test %>%
   View()
 
 # hmm, this is a little trickier because the links aren't always the last thing in the text
+# ***will return to this
 
 
+
+
+### filter for just original tweets - no retweets
+twdata_all_originalonly <- twdata_all %>% 
+  filter(is.na(retweet_text))
 
 
 ###### TEXTUAL ANALYSIS ####### --------------------------------
 
 
-selectedcols <- twdata_all %>%
+selectedcols <- twdata_all_originalonly %>%
   select(speaker, text)
 
 
