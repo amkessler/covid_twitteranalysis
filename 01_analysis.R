@@ -5,13 +5,13 @@ library(tidyverse)
 library(janitor)
 library(lubridate)
 library(tidytext)
+library(tidycensus)
 
 #load saved data from step 00
 twdata_all <- readRDS("archived_data/twitterdata_governors.rds")
 
 
-
-#some quick gropuings explore
+#some quick groupings explore
 
 twdata_all %>% 
   count(party_affiliation)
@@ -88,6 +88,25 @@ speaker_words <- speaker_words %>%
   filter(!str_detect(word, "[0-9]"), #remove numbers
          !str_detect(word, "http*"),
          !str_detect(word, "t.co")) 
+
+#aiming to remove references to state names or abbreviations
+#since many tweets include references to their own states
+#first-- create lookup tables from tidycensus' fips table
+statelookup <- fips_codes %>% 
+  distinct(state, state_name) %>% 
+  mutate(state = str_to_lower(state),
+         state_name = str_to_lower(state_name))
+
+#create dfs of our values
+state_abbs <- statelookup %>% select(word = state)
+state_names <- statelookup %>% select(word = state_name)
+
+#run the anti-joins
+speaker_words <- speaker_words %>%
+  anti_join(state_abbs)
+speaker_words <- speaker_words %>%
+  anti_join(state_names)
+
 
 
 
