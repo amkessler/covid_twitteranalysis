@@ -1,6 +1,4 @@
 speaker,word,n
-Andrew Cuomo (NY-D),https,413
-Andrew Cuomo (NY-D),t.co,413
 Andrew Cuomo (NY-D),coronavirus,140
 Andrew Cuomo (NY-D),york,139
 Andrew Cuomo (NY-D),ny,87
@@ -9,8 +7,8 @@ Andrew Cuomo (NY-D),nygovcuomo,69
 Andrew Cuomo (NY-D),health,65
 Andrew Cuomo (NY-D),nys,53
 Andrew Cuomo (NY-D),spread,42
-Andy Beshear (KY-D),https,446
-Andy Beshear (KY-D),t.co,446
+Andrew Cuomo (NY-D),people,40
+Andrew Cuomo (NY-D),home,39
 Andy Beshear (KY-D),teamkentucky,156
 Andy Beshear (KY-D),ab,110
 Andy Beshear (KY-D),beshear,100
@@ -19,8 +17,8 @@ Andy Beshear (KY-D),kentuckians,85
 Andy Beshear (KY-D),governor,80
 Andy Beshear (KY-D),togetherky,74
 Andy Beshear (KY-D),live,57
-Asa Hutchinson (AR-R),https,176
-Asa Hutchinson (AR-R),t.co,176
+Andy Beshear (KY-D),information,52
+Andy Beshear (KY-D),update,41
 Asa Hutchinson (AR-R),covid,74
 Asa Hutchinson (AR-R),arkansas,59
 Asa Hutchinson (AR-R),provide,33
@@ -29,8 +27,8 @@ Asa Hutchinson (AR-R),update,30
 Asa Hutchinson (AR-R),live,28
 Asa Hutchinson (AR-R),day,24
 Asa Hutchinson (AR-R),governor,24
-Bill Lee (TN-R),https,241
-Bill Lee (TN-R),t.co,241
+Asa Hutchinson (AR-R),hutchinson,23
+Asa Hutchinson (AR-R),news,22
 Bill Lee (TN-R),tennessee,74
 Bill Lee (TN-R),covid,40
 Bill Lee (TN-R),tennesseans,39
@@ -39,8 +37,8 @@ Bill Lee (TN-R),update,21
 Bill Lee (TN-R),health,19
 Bill Lee (TN-R),watch,17
 Bill Lee (TN-R),efforts,15
-Brad Little (ID-R),https,259
-Brad Little (ID-R),t.co,259
+Bill Lee (TN-R),students,15
+Bill Lee (TN-R),week,15
 Brad Little (ID-R),idaho,133
 Brad Little (ID-R),coronavirus,46
 Brad Little (ID-R),governorlittle,46
@@ -49,8 +47,8 @@ Brad Little (ID-R),health,36
 Brad Little (ID-R),idpol,34
 Brad Little (ID-R),public,33
 Brad Little (ID-R),day,25
-Brian Kemp (GA-R),https,339
-Brian Kemp (GA-R),t.co,339
+Brad Little (ID-R),information,23
+Brad Little (ID-R),covid,22
 Brian Kemp (GA-R),gapol,255
 Brian Kemp (GA-R),georgia,108
 Brian Kemp (GA-R),georgians,54
@@ -59,8 +57,8 @@ Brian Kemp (GA-R),gadph,36
 Brian Kemp (GA-R),gt,33
 Brian Kemp (GA-R),covid,32
 Brian Kemp (GA-R),fight,32
-Charlie Baker (MA-R),https,384
-Charlie Baker (MA-R),t.co,384
+Brian Kemp (GA-R),time,32
+Brian Kemp (GA-R),update,30
 Charlie Baker (MA-R),health,59
 Charlie Baker (MA-R),commonwealth,46
 Charlie Baker (MA-R),covid,46
@@ -69,8 +67,8 @@ Charlie Baker (MA-R),support,45
 Charlie Baker (MA-R),care,43
 Charlie Baker (MA-R),massachusetts,38
 Charlie Baker (MA-R),update,38
-Chris Sununu (NH-R),https,466
-Chris Sununu (NH-R),t.co,466
+Charlie Baker (MA-R),continue,37
+Charlie Baker (MA-R),masshhs,32
 Chris Sununu (NH-R),nh,138
 Chris Sununu (NH-R),hampshire,125
 Chris Sununu (NH-R),govchrissununu,98
@@ -79,8 +77,8 @@ Chris Sununu (NH-R),granite,69
 Chris Sununu (NH-R),covid,56
 Chris Sununu (NH-R),live,53
 Chris Sununu (NH-R),emergency,45
-David Ige (HI-D),t.co,538
-David Ige (HI-D),https,537
+Chris Sununu (NH-R),staters,44
+Chris Sununu (NH-R),services,37
 David Ige (HI-D),hawaii,84
 David Ige (HI-D),coronavirus,60
 David Ige (HI-D),covid,48
@@ -89,8 +87,8 @@ David Ige (HI-D),home,37
 David Ige (HI-D),community,36
 David Ige (HI-D),march,32
 David Ige (HI-D),rt,30
-Doug Burgum (ND-R),https,168
-Doug Burgum (ND-R),t.co,168
+David Ige (HI-D),live,29
+David Ige (HI-D),public,29
 Doug Burgum (ND-R),covid,56
 Doug Burgum (ND-R),north,51
 Doug Burgum (ND-R),dakota,31
@@ -99,8 +97,8 @@ Doug Burgum (ND-R),nddoh,24
 Doug Burgum (ND-R),confirmed,19
 Doug Burgum (ND-R),press,18
 Doug Burgum (ND-R),health,16
-Doug Ducey (AZ-R),t.co,1397
-Doug Ducey (AZ-R),https,1396
+Doug Burgum (ND-R),watch,16
+Doug Burgum (ND-R),care,15
 Doug Ducey (AZ-R),arizona,546
 Doug Ducey (AZ-R),dougducey,363
 Doug Ducey (AZ-R),thearizonaway,284
@@ -109,8 +107,8 @@ Doug Ducey (AZ-R),gov,150
 Doug Ducey (AZ-R),governor,147
 Doug Ducey (AZ-R),public,146
 Doug Ducey (AZ-R),arizona’s,123
-Eric Holcomb (IN-R),https,379
-Eric Holcomb (IN-R),t.co,379
+Doug Ducey (AZ-R),azdhs,110
+Doug Ducey (AZ-R),budget,105
 Eric Holcomb (IN-R),indiana,104
 Eric Holcomb (IN-R),hoosiers,73
 Eric Holcomb (IN-R),health,47
@@ -119,8 +117,8 @@ Eric Holcomb (IN-R),statehealthin,36
 Eric Holcomb (IN-R),emergency,31
 Eric Holcomb (IN-R),public,31
 Eric Holcomb (IN-R),watch,31
-Gary Herbert (UT-R),https,128
-Gary Herbert (UT-R),t.co,128
+Eric Holcomb (IN-R),provide,29
+Eric Holcomb (IN-R),spread,29
 Gary Herbert (UT-R),utah,50
 Gary Herbert (UT-R),covid,30
 Gary Herbert (UT-R),home,24
@@ -129,8 +127,8 @@ Gary Herbert (UT-R),stay,20
 Gary Herbert (UT-R),spread,19
 Gary Herbert (UT-R),coronavirus,18
 Gary Herbert (UT-R),family,15
-Gavin Newsom (CA-D),t.co,353
-Gavin Newsom (CA-D),https,352
+Gary Herbert (UT-R),utahns,14
+Gary Herbert (UT-R),local,13
 Gavin Newsom (CA-D),gavinnewsom,88
 Gavin Newsom (CA-D),california,64
 Gavin Newsom (CA-D),ca,56
@@ -139,8 +137,8 @@ Gavin Newsom (CA-D),governor,50
 Gavin Newsom (CA-D),californiaforall,38
 Gavin Newsom (CA-D),homelessness,37
 Gavin Newsom (CA-D),live,37
-Gina Raimondo (RI-D),https,174
-Gina Raimondo (RI-D),t.co,174
+Gavin Newsom (CA-D),crisis,27
+Gavin Newsom (CA-D),time,26
 Gina Raimondo (RI-D),ri,55
 Gina Raimondo (RI-D),i’m,37
 Gina Raimondo (RI-D),time,37
@@ -149,8 +147,8 @@ Gina Raimondo (RI-D),students,32
 Gina Raimondo (RI-D),care,29
 Gina Raimondo (RI-D),coronavirus,28
 Gina Raimondo (RI-D),home,28
-Greg Abbott (TX-R),https,266
-Greg Abbott (TX-R),t.co,266
+Gina Raimondo (RI-D),school,27
+Gina Raimondo (RI-D),businesses,26
 Greg Abbott (TX-R),texas,150
 Greg Abbott (TX-R),txlege,28
 Greg Abbott (TX-R),texans,27
@@ -159,8 +157,8 @@ Greg Abbott (TX-R),continue,20
 Greg Abbott (TX-R),communities,19
 Greg Abbott (TX-R),human,19
 Greg Abbott (TX-R),coronavirus,18
-Gretchen Whitmer (MI-D),t.co,230
-Gretchen Whitmer (MI-D),https,228
+Greg Abbott (TX-R),honor,17
+Greg Abbott (TX-R),trafficking,17
 Gretchen Whitmer (MI-D),covid,63
 Gretchen Whitmer (MI-D),michigan,61
 Gretchen Whitmer (MI-D),michiganders,33
@@ -169,8 +167,8 @@ Gretchen Whitmer (MI-D),care,28
 Gretchen Whitmer (MI-D),health,27
 Gretchen Whitmer (MI-D),spread,25
 Gretchen Whitmer (MI-D),information,22
-Henry McMaster (SC-R),https,103
-Henry McMaster (SC-R),t.co,103
+Gretchen Whitmer (MI-D),stay,22
+Gretchen Whitmer (MI-D),home,21
 Henry McMaster (SC-R),south,53
 Henry McMaster (SC-R),carolina,36
 Henry McMaster (SC-R),public,26
@@ -179,9 +177,9 @@ Henry McMaster (SC-R),executive,14
 Henry McMaster (SC-R),response,14
 Henry McMaster (SC-R),schools,14
 Henry McMaster (SC-R),coronavirus,13
+Henry McMaster (SC-R),education,13
+Henry McMaster (SC-R),law,13
 J. B. Pritzker (IL-D),illinois,215
-J. B. Pritzker (IL-D),https,181
-J. B. Pritzker (IL-D),t.co,181
 J. B. Pritzker (IL-D),de,64
 J. B. Pritzker (IL-D),people,64
 J. B. Pritzker (IL-D),health,61
@@ -189,9 +187,9 @@ J. B. Pritzker (IL-D),care,60
 J. B. Pritzker (IL-D),federal,56
 J. B. Pritzker (IL-D),en,54
 J. B. Pritzker (IL-D),home,51
+J. B. Pritzker (IL-D),i’m,45
+J. B. Pritzker (IL-D),we’re,45
 Janet Mills (ME-D),maine,99
-Janet Mills (ME-D),https,95
-Janet Mills (ME-D),t.co,95
 Janet Mills (ME-D),people,42
 Janet Mills (ME-D),covid,28
 Janet Mills (ME-D),health,26
@@ -199,8 +197,8 @@ Janet Mills (ME-D),support,17
 Janet Mills (ME-D),businesses,15
 Janet Mills (ME-D),care,15
 Janet Mills (ME-D),coronavirus,15
-Jared Polis (CO-D),https,289
-Jared Polis (CO-D),t.co,289
+Janet Mills (ME-D),million,13
+Janet Mills (ME-D),maine’s,12
 Jared Polis (CO-D),colorado,101
 Jared Polis (CO-D),covid,69
 Jared Polis (CO-D),govofco,60
@@ -209,8 +207,8 @@ Jared Polis (CO-D),doingmypartco,48
 Jared Polis (CO-D),coloradans,39
 Jared Polis (CO-D),care,32
 Jared Polis (CO-D),people,31
-Jay Inslee (WA-D),https,321
-Jay Inslee (WA-D),t.co,321
+Jared Polis (CO-D),i’m,23
+Jared Polis (CO-D),update,23
 Jay Inslee (WA-D),covid,103
 Jay Inslee (WA-D),wa,103
 Jay Inslee (WA-D),washingtonians,84
@@ -219,8 +217,8 @@ Jay Inslee (WA-D),health,52
 Jay Inslee (WA-D),people,48
 Jay Inslee (WA-D),stay,42
 Jay Inslee (WA-D),i’m,39
-Jim Justice (WV-R),https,379
-Jim Justice (WV-R),t.co,379
+Jay Inslee (WA-D),washington,38
+Jay Inslee (WA-D),care,35
 Jim Justice (WV-R),wv,201
 Jim Justice (WV-R),wvgov,117
 Jim Justice (WV-R),west,105
@@ -229,9 +227,9 @@ Jim Justice (WV-R),covid,45
 Jim Justice (WV-R),live,44
 Jim Justice (WV-R),day,40
 Jim Justice (WV-R),justice,39
+Jim Justice (WV-R),gov,32
+Jim Justice (WV-R),response,32
 John Bel Edwards (LA-D),louisianagov,1199
-John Bel Edwards (LA-D),https,976
-John Bel Edwards (LA-D),t.co,976
 John Bel Edwards (LA-D),lagov,932
 John Bel Edwards (LA-D),lalege,823
 John Bel Edwards (LA-D),louisiana,574
@@ -239,8 +237,8 @@ John Bel Edwards (LA-D),coronavirus,380
 John Bel Edwards (LA-D),people,194
 John Bel Edwards (LA-D),covid,192
 John Bel Edwards (LA-D),health,148
-John Carney (DE-D),t.co,303
-John Carney (DE-D),https,301
+John Bel Edwards (LA-D),positive,140
+John Bel Edwards (LA-D),spread,126
 John Carney (DE-D),delaware,78
 John Carney (DE-D),coronavirus,53
 John Carney (DE-D),desots,50
@@ -249,8 +247,8 @@ John Carney (DE-D),public,40
 John Carney (DE-D),netde,32
 John Carney (DE-D),stay,29
 John Carney (DE-D),de,28
-Kate Brown (OR-D),https,185
-Kate Brown (OR-D),t.co,185
+John Carney (DE-D),delawareans,28
+John Carney (DE-D),home,26
 Kate Brown (OR-D),oregon,80
 Kate Brown (OR-D),oregonians,57
 Kate Brown (OR-D),health,41
@@ -259,8 +257,8 @@ Kate Brown (OR-D),coronavirus,27
 Kate Brown (OR-D),climate,25
 Kate Brown (OR-D),people,24
 Kate Brown (OR-D),home,23
-Kay Ivey (AL-R),t.co,320
-Kay Ivey (AL-R),https,318
+Kate Brown (OR-D),safe,20
+Kate Brown (OR-D),change,19
 Kay Ivey (AL-R),alpolitics,185
 Kay Ivey (AL-R),alabama,75
 Kay Ivey (AL-R),al,47
@@ -269,8 +267,8 @@ Kay Ivey (AL-R),it’s,28
 Kay Ivey (AL-R),governorkayivey,25
 Kay Ivey (AL-R),time,25
 Kay Ivey (AL-R),proud,23
-Kevin Stitt (OK-R),https,228
-Kevin Stitt (OK-R),t.co,228
+Kay Ivey (AL-R),alpublichealth,22
+Kay Ivey (AL-R),coronavirus,22
 Kevin Stitt (OK-R),oklahoma,91
 Kevin Stitt (OK-R),oklahomans,51
 Kevin Stitt (OK-R),health,35
@@ -279,8 +277,8 @@ Kevin Stitt (OK-R),govstitt,24
 Kevin Stitt (OK-R),top,23
 Kevin Stitt (OK-R),oklaproud,22
 Kevin Stitt (OK-R),time,22
-Kim Reynolds (IA-R),https,227
-Kim Reynolds (IA-R),t.co,227
+Kevin Stitt (OK-R),business,20
+Kevin Stitt (OK-R),people,19
 Kim Reynolds (IA-R),iowa,78
 Kim Reynolds (IA-R),investiniowaact,37
 Kim Reynolds (IA-R),iowans,32
@@ -289,8 +287,8 @@ Kim Reynolds (IA-R),opportunityliveshere,28
 Kim Reynolds (IA-R),iagovernor,25
 Kim Reynolds (IA-R),health,23
 Kim Reynolds (IA-R),update,23
-Kristi Noem (SD-R),t.co,355
-Kristi Noem (SD-R),https,353
+Kim Reynolds (IA-R),read,22
+Kim Reynolds (IA-R),ー,16
 Kristi Noem (SD-R),south,80
 Kristi Noem (SD-R),dakota,65
 Kristi Noem (SD-R),sd,51
@@ -299,8 +297,8 @@ Kristi Noem (SD-R),ー,27
 Kristi Noem (SD-R),keepsdsafe,23
 Kristi Noem (SD-R),day,22
 Kristi Noem (SD-R),learn,21
-Larry Hogan (MD-R),https,256
-Larry Hogan (MD-R),t.co,256
+Kristi Noem (SD-R),life,20
+Kristi Noem (SD-R),time,18
 Larry Hogan (MD-R),maryland,81
 Larry Hogan (MD-R),covid,59
 Larry Hogan (MD-R),govlarryhogan,49
@@ -309,8 +307,8 @@ Larry Hogan (MD-R),live,37
 Larry Hogan (MD-R),health,35
 Larry Hogan (MD-R),public,28
 Larry Hogan (MD-R),response,28
-Laura Kelly (KS-D),t.co,463
-Laura Kelly (KS-D),https,459
+Larry Hogan (MD-R),hogan,27
+Larry Hogan (MD-R),actions,25
 Laura Kelly (KS-D),kansas,177
 Laura Kelly (KS-D),covid,69
 Laura Kelly (KS-D),kansans,49
@@ -319,8 +317,8 @@ Laura Kelly (KS-D),information,36
 Laura Kelly (KS-D),day,33
 Laura Kelly (KS-D),health,33
 Laura Kelly (KS-D),visit,32
-Mark Gordon (WY-R),https,96
-Mark Gordon (WY-R),t.co,96
+Laura Kelly (KS-D),communities,31
+Laura Kelly (KS-D),kdhe,29
 Mark Gordon (WY-R),wyoming,47
 Mark Gordon (WY-R),covid,24
 Mark Gordon (WY-R),health,23
@@ -329,8 +327,8 @@ Mark Gordon (WY-R),distancing,11
 Mark Gordon (WY-R),home,10
 Mark Gordon (WY-R),protect,10
 Mark Gordon (WY-R),slowthespread,10
-Michelle Lujan Grishom (NM-D),t.co,445
-Michelle Lujan Grishom (NM-D),https,444
+Mark Gordon (WY-R),confirmed,9
+Mark Gordon (WY-R),coronavirus,9
 Michelle Lujan Grishom (NM-D),mexico,287
 Michelle Lujan Grishom (NM-D),nmgov,139
 Michelle Lujan Grishom (NM-D),mexicans,127
@@ -339,8 +337,8 @@ Michelle Lujan Grishom (NM-D),covid,109
 Michelle Lujan Grishom (NM-D),nmleg,94
 Michelle Lujan Grishom (NM-D),stay,74
 Michelle Lujan Grishom (NM-D),home,69
-Mike DeWine (OH-R),https,865
-Mike DeWine (OH-R),t.co,865
+Michelle Lujan Grishom (NM-D),public,64
+Michelle Lujan Grishom (NM-D),care,58
 Mike DeWine (OH-R),ohio,330
 Mike DeWine (OH-R),inthistogetherohio,156
 Mike DeWine (OH-R),people,106
@@ -349,8 +347,8 @@ Mike DeWine (OH-R),dramyacton,85
 Mike DeWine (OH-R),time,79
 Mike DeWine (OH-R),health,78
 Mike DeWine (OH-R),ltgovhusted,74
-Mike Dunleavy (AK-R),https,116
-Mike Dunleavy (AK-R),t.co,116
+Mike DeWine (OH-R),ohio's,71
+Mike DeWine (OH-R),day,70
 Mike Dunleavy (AK-R),alaska,58
 Mike Dunleavy (AK-R),akgov,52
 Mike Dunleavy (AK-R),akleg,43
@@ -359,8 +357,8 @@ Mike Dunleavy (AK-R),live,24
 Mike Dunleavy (AK-R),watch,20
 Mike Dunleavy (AK-R),health,16
 Mike Dunleavy (AK-R),alaska’s,15
-Mike Parson (MO-R),https,956
-Mike Parson (MO-R),t.co,956
+Mike Dunleavy (AK-R),future,15
+Mike Dunleavy (AK-R),outbreak,15
 Mike Parson (MO-R),missouri,405
 Mike Parson (MO-R),covid,170
 Mike Parson (MO-R),govparsonmo,95
@@ -369,8 +367,8 @@ Mike Parson (MO-R),health,76
 Mike Parson (MO-R),county,73
 Mike Parson (MO-R),people,64
 Mike Parson (MO-R),visit,64
-Ned Lamont (CT-D),t.co,888
-Ned Lamont (CT-D),https,887
+Mike Parson (MO-R),continue,63
+Mike Parson (MO-R),governor,62
 Ned Lamont (CT-D),connecticut,195
 Ned Lamont (CT-D),ct,75
 Ned Lamont (CT-D),live,69
@@ -379,8 +377,8 @@ Ned Lamont (CT-D),efforts,66
 Ned Lamont (CT-D),health,66
 Ned Lamont (CT-D),people,65
 Ned Lamont (CT-D),govnedlamont,64
-Pete Ricketts (NE-R),https,823
-Pete Ricketts (NE-R),t.co,823
+Ned Lamont (CT-D),residents,63
+Ned Lamont (CT-D),response,63
 Pete Ricketts (NE-R),nebraska,231
 Pete Ricketts (NE-R),govricketts,201
 Pete Ricketts (NE-R),coronavirus,98
@@ -389,8 +387,8 @@ Pete Ricketts (NE-R),live,81
 Pete Ricketts (NE-R),watch,67
 Pete Ricketts (NE-R),nebraskans,60
 Pete Ricketts (NE-R),people,60
-Phil Murphy (NJ-D),t.co,1137
-Phil Murphy (NJ-D),https,1134
+Pete Ricketts (NE-R),health,55
+Pete Ricketts (NE-R),spread,54
 Phil Murphy (NJ-D),jersey,321
 Phil Murphy (NJ-D),govmurphy,309
 Phil Murphy (NJ-D),health,215
@@ -399,8 +397,8 @@ Phil Murphy (NJ-D),we’re,131
 Phil Murphy (NJ-D),public,107
 Phil Murphy (NJ-D),care,106
 Phil Murphy (NJ-D),time,93
-Phil Scott (VT-R),https,120
-Phil Scott (VT-R),t.co,120
+Phil Murphy (NJ-D),coronavirus,90
+Phil Murphy (NJ-D),family,85
 Phil Scott (VT-R),vtbudget,56
 Phil Scott (VT-R),vtsots,42
 Phil Scott (VT-R),vermont,33
@@ -409,8 +407,8 @@ Phil Scott (VT-R),covid,28
 Phil Scott (VT-R),people,24
 Phil Scott (VT-R),budget,23
 Phil Scott (VT-R),support,21
-Ralph Northam (VA-D),https,263
-Ralph Northam (VA-D),t.co,263
+Phil Scott (VT-R),we’re,20
+Phil Scott (VT-R),vtpoli,19
 Ralph Northam (VA-D),virginia,126
 Ralph Northam (VA-D),virginians,55
 Ralph Northam (VA-D),health,45
@@ -419,8 +417,8 @@ Ralph Northam (VA-D),public,36
 Ralph Northam (VA-D),people,31
 Ralph Northam (VA-D),sotc,31
 Ralph Northam (VA-D),governorva,28
-Ron DeSantis (FL-R),https,93
-Ron DeSantis (FL-R),t.co,93
+Ralph Northam (VA-D),learn,27
+Ralph Northam (VA-D),northam,21
 Ron DeSantis (FL-R),florida,50
 Ron DeSantis (FL-R),florida’s,18
 Ron DeSantis (FL-R),day,12
@@ -429,8 +427,8 @@ Ron DeSantis (FL-R),floridians,11
 Ron DeSantis (FL-R),covid,10
 Ron DeSantis (FL-R),hurricane,10
 Ron DeSantis (FL-R),communities,9
-Roy Cooper (NC-D),https,396
-Roy Cooper (NC-D),t.co,396
+Ron DeSantis (FL-R),continue,9
+Ron DeSantis (FL-R),info,9
 Roy Cooper (NC-D),nc_governor,165
 Roy Cooper (NC-D),north,113
 Roy Cooper (NC-D),cooper,88
@@ -439,8 +437,8 @@ Roy Cooper (NC-D),health,65
 Roy Cooper (NC-D),people,62
 Roy Cooper (NC-D),carolina,57
 Roy Cooper (NC-D),coronavirus,45
-Steve Bullock (MT-D),https,77
-Steve Bullock (MT-D),t.co,77
+Roy Cooper (NC-D),carolinians,43
+Roy Cooper (NC-D),covid,43
 Steve Bullock (MT-D),montana,39
 Steve Bullock (MT-D),montanans,32
 Steve Bullock (MT-D),covid,26
@@ -449,8 +447,8 @@ Steve Bullock (MT-D),public,22
 Steve Bullock (MT-D),spread,14
 Steve Bullock (MT-D),continue,13
 Steve Bullock (MT-D),day,13
-Steve Sisolak (NV-D),https,521
-Steve Sisolak (NV-D),t.co,521
+Steve Bullock (MT-D),home,13
+Steve Bullock (MT-D),care,12
 Steve Sisolak (NV-D),nevada,118
 Steve Sisolak (NV-D),nv,71
 Steve Sisolak (NV-D),nevadans,66
@@ -459,8 +457,8 @@ Steve Sisolak (NV-D),ty,45
 Steve Sisolak (NV-D),vegas,42
 Steve Sisolak (NV-D),time,39
 Steve Sisolak (NV-D),public,37
-Tate Reeves (MS-R),https,257
-Tate Reeves (MS-R),t.co,257
+Steve Sisolak (NV-D),community,36
+Steve Sisolak (NV-D),stayhomefornevada,35
 Tate Reeves (MS-R),mississippi,116
 Tate Reeves (MS-R),covid,43
 Tate Reeves (MS-R),time,41
@@ -469,8 +467,8 @@ Tate Reeves (MS-R),mississippians,33
 Tate Reeves (MS-R),stay,32
 Tate Reeves (MS-R),ms,30
 Tate Reeves (MS-R),people,29
-Tim Walz (MN-D),https,220
-Tim Walz (MN-D),t.co,220
+Tate Reeves (MS-R),protect,29
+Tate Reeves (MS-R),coronavirus,27
 Tim Walz (MN-D),minnesotans,70
 Tim Walz (MN-D),minnesota,54
 Tim Walz (MN-D),govtimwalz,34
@@ -479,8 +477,8 @@ Tim Walz (MN-D),care,32
 Tim Walz (MN-D),health,29
 Tim Walz (MN-D),oneminnesota,24
 Tim Walz (MN-D),stayhomemn,23
-Tom Wolf (PA-D),https,776
-Tom Wolf (PA-D),t.co,776
+Tim Walz (MN-D),i’m,22
+Tim Walz (MN-D),mn,22
 Tom Wolf (PA-D),pennsylvania,176
 Tom Wolf (PA-D),governortomwolf,144
 Tom Wolf (PA-D),pa,110
@@ -489,8 +487,8 @@ Tom Wolf (PA-D),home,67
 Tom Wolf (PA-D),pennsylvanians,65
 Tom Wolf (PA-D),stay,62
 Tom Wolf (PA-D),covid,60
-Tony Evers (WI-D),https,340
-Tony Evers (WI-D),t.co,340
+Tom Wolf (PA-D),spread,60
+Tom Wolf (PA-D),students,56
 Tony Evers (WI-D),wisconsin,94
 Tony Evers (WI-D),folks,50
 Tony Evers (WI-D),health,48
@@ -499,3 +497,5 @@ Tony Evers (WI-D),covid,46
 Tony Evers (WI-D),public,39
 Tony Evers (WI-D),people,37
 Tony Evers (WI-D),saferathome,31
+Tony Evers (WI-D),schools,30
+Tony Evers (WI-D),home,28
