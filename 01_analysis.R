@@ -29,6 +29,32 @@ twdata_all %>%
   head(10)
 
 
+## deal with the urls within the tweet text ####
+test <- twdata_all %>% filter(state == "Alabama")
+
+test %>% 
+  select(text)
+
+test %>% 
+  mutate(
+    urltext = str_trim(str_extract(text, "http.*"))
+  ) %>% 
+  select(urltext, text) %>% 
+  View()
+
+# hmm, this is a little trickier because the links aren't always the last thing in the text
+
+
+
+  mutate(
+    chem = str_trim(str_extract(fullstring, "^[^CAS]+")),
+    cas = str_trim(gsub(".*CAS #:\\s*|Docket.*", "", fullstring)),
+    docket = str_extract(fullstring, "Docket.*"),
+    docket = str_trim(str_remove(docket, "Docket ID #:"))
+  ) 
+
+
+
 
 
 
