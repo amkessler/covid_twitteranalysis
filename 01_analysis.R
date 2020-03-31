@@ -47,6 +47,11 @@ twdata_all %>%
   count(party_affiliation)
 
 ## This clearly is a shortcoming in the data - we'll have to fix this
+# Will turn to:
+# https://ballotpedia.org/Partisan_composition_of_governors
+
+# Import processed governors table from saved Gsheet:
+governorslist <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vR612UAkJ68pjn6Wh-ndohpUiugtT1SyTkqw8PBegzwuphh9Efyp711frrmdD7nLOnxnw778iTY3mpw/pub?gid=0&single=true&output=csv")
 
 
 
