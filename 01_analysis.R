@@ -29,7 +29,7 @@ twdata_all %>%
   head(10)
 
 
-## deal with the urls within the tweet text ####
+## try to extract  the urls within the tweet text ####
 test <- twdata_all %>% filter(state == "Alabama")
 
 test %>% 
@@ -43,18 +43,6 @@ test %>%
   View()
 
 # hmm, this is a little trickier because the links aren't always the last thing in the text
-
-
-
-  mutate(
-    chem = str_trim(str_extract(fullstring, "^[^CAS]+")),
-    cas = str_trim(gsub(".*CAS #:\\s*|Docket.*", "", fullstring)),
-    docket = str_extract(fullstring, "Docket.*"),
-    docket = str_trim(str_remove(docket, "Docket ID #:"))
-  ) 
-
-
-
 
 
 
@@ -91,7 +79,9 @@ data(stop_words)
 
 speaker_words <- speaker_words %>%
   anti_join(stop_words) %>% 
-  filter(!str_detect(word, "[0-9]")) # remove numbers
+  filter(!str_detect(word, "[0-9]"), #remove numbers
+         !str_detect(word, "http*"),
+         !str_detect(word, "t.co")) 
 
 
 
@@ -117,7 +107,12 @@ bigrams_filtered <- bigrams_separated %>%
   filter(!word1 %in% stop_words$word) %>%
   filter(!word2 %in% stop_words$word) %>% 
   filter(!str_detect(word1, "[0-9]")) %>% 
-  filter(!str_detect(word2, "[0-9]")) # remove numbers
+  filter(!str_detect(word2, "[0-9]")) %>% # remove numbers
+  filter(!str_detect(word1, "http*")) %>% 
+  filter(!str_detect(word2, "http*")) %>%
+  filter(!str_detect(word1, "t.co")) %>% 
+  filter(!str_detect(word2, "t.co")) 
+
 
 # new bigram counts:
 bigram_counts <- bigrams_filtered %>% 
