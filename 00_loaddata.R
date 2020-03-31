@@ -64,6 +64,8 @@ joined <- joined %>%
     party_abbrev
   )
 
+
+
 #save result for next step
 saveRDS(joined, "archived_data/twitterdata_governors.rds")
 write_csv(joined, "archived_data/twitterdata_governors.csv")
