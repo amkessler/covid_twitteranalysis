@@ -30,27 +30,27 @@ twdata_all %>%
 
 
 ## try to extract  the urls within the tweet text ####
-test <- twdata_all %>% filter(state == "Alabama")
-
-test %>% 
-  select(text)
-
-test %>% 
-  mutate(
-    urltext = str_trim(str_extract(text, "http.*"))
-  ) %>% 
-  select(urltext, text) %>% 
-  View()
+# test <- twdata_all %>% filter(state == "Alabama")
+# 
+# test %>% 
+#   select(text)
+# 
+# test %>% 
+#   mutate(
+#     urltext = str_trim(str_extract(text, "http.*"))
+#   ) %>% 
+#   select(urltext, text) %>% 
+#   View()
 
 # hmm, this is a little trickier because the links aren't always the last thing in the text
 # ***will return to this
 
 
 
-
 ### filter for just original tweets - no retweets
 twdata_all_originalonly <- twdata_all %>% 
   filter(is.na(retweet_text))
+
 
 
 ###### TEXTUAL ANALYSIS ####### --------------------------------
@@ -66,7 +66,7 @@ selectedcols %>%
 
 
 
-# SINGLE WORDS ####
+# SINGLE WORDS #### ----------------------
 
 speaker_words <- selectedcols %>%
   unnest_tokens(word, text) %>%
@@ -99,7 +99,11 @@ statelookup <- fips_codes %>%
 
 #create dfs of our values
 state_abbs <- statelookup %>% select(word = state)
-state_names <- statelookup %>% select(word = state_name)
+
+state_names <- statelookup %>% 
+  separate_rows(state_name) %>% 
+  distinct(state_name) %>% 
+  select(word = state_name)
 
 #run the anti-joins
 speaker_words <- speaker_words %>%
@@ -110,7 +114,7 @@ speaker_words <- speaker_words %>%
 
 
 
-### BI-GRAMS #### 
+### BI-GRAMS #### -------------------
 
 speaker_bigrams <- selectedcols %>%
   unnest_tokens(bigram, text, token = "ngrams", n = 2) %>%
@@ -153,8 +157,10 @@ speaker_bigrams <- bigrams_united
 
 
 
+################################################################################
 
-#### --- FREQUENCY COUNTS #### ----------------------
+
+#### FREQUENCY COUNTS #######
 
 #pull top SINGLE words for each speaker into table
 top_word_per_speaker <- speaker_words %>%
@@ -187,7 +193,7 @@ write_csv(top_bigrams_per_speaker, "output/top_bigrams_perspeaker.csv")
 
 
 
-### TD-IDF ANALYSIS --------------------------------------------------------
+#####  TD-IDF ANALYSIS #############
 
 # idf and thus tf-idf are zero for these extremely common words, so the idf term (which will then be the
 # natural log of 1) is zero. The inverse document frequency (and thus tf-idf) is very low (near zero) for words that 
