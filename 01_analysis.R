@@ -86,7 +86,7 @@ data(stop_words)
 speaker_words <- speaker_words %>%
   anti_join(stop_words) %>% 
   filter(!str_detect(word, "[0-9]"), #remove numbers
-         !str_detect(word, "http*"),
+         !str_detect(word, "http*"), 
          !str_detect(word, "t.co")) 
 
 #aiming to remove references to state names or abbreviations
@@ -110,6 +110,19 @@ speaker_words <- speaker_words %>%
   anti_join(state_abbs)
 speaker_words <- speaker_words %>%
   anti_join(state_names)
+
+#compile governors' own names and remove those words as well
+govnames <- twdata_all_originalonly %>% 
+  mutate(
+    governor = str_trim(str_to_lower(governor))
+  ) %>% 
+  separate_rows(governor) %>% 
+  select(word = governor) %>% 
+  distinct(word)
+
+speaker_words <- speaker_words %>%
+  anti_join(govnames)
+
 
 
 
