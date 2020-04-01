@@ -9,17 +9,16 @@ Andrew Cuomo (NY-D),federal government,11,17052
 Andrew Cuomo (NY-D),health care,11,17052
 Andrew Cuomo (NY-D),coronavirus testing,8,17052
 Andrew Cuomo (NY-D),hate crimes,8,17052
-Andy Beshear (KY-D),governor beshear,64,11525
 Andy Beshear (KY-D),teamkentucky ab,53,11525
 Andy Beshear (KY-D),updated information,39,11525
 Andy Beshear (KY-D),togetherky teamkentucky,34,11525
 Andy Beshear (KY-D),facebook live,28,11525
 Andy Beshear (KY-D),watch live,26,11525
-Andy Beshear (KY-D),beshear shares,23,11525
 Andy Beshear (KY-D),shares updated,23,11525
-Andy Beshear (KY-D),gov beshear,22,11525
 Andy Beshear (KY-D),share updated,15,11525
-Asa Hutchinson (AR-R),governor hutchinson,21,7159
+Andy Beshear (KY-D),teamkentucky togetherky,13,11525
+Andy Beshear (KY-D),update kentuckians,12,11525
+Andy Beshear (KY-D),ab togetherky,7,11525
 Asa Hutchinson (AR-R),live governor,20,7159
 Asa Hutchinson (AR-R),news conference,15,7159
 Asa Hutchinson (AR-R),provide covid,13,7159
@@ -29,6 +28,7 @@ Asa Hutchinson (AR-R),health care,9,7159
 Asa Hutchinson (AR-R),week’s radio,8,7159
 Asa Hutchinson (AR-R),public health,6,7159
 Asa Hutchinson (AR-R),social distancing,6,7159
+Asa Hutchinson (AR-R),care workers,4,7159
 Bill Lee (TN-R),watch live,8,5302
 Bill Lee (TN-R),media briefing,7,5302
 Bill Lee (TN-R),health care,6,5302
@@ -38,27 +38,27 @@ Bill Lee (TN-R),tnsots address,5,5302
 Bill Lee (TN-R),health officials,4,5302
 Bill Lee (TN-R),public health,4,5302
 Bill Lee (TN-R),tennesseans healthy,4,5302
-Bill Lee (TN-R),tennessee students,4,5302
+Bill Lee (TN-R),today's covid,4,5302
 Brad Little (ID-R),idleg idpol,11,3855
 Brad Little (ID-R),stay home,10,3855
 Brad Little (ID-R),press conference,6,3855
 Brad Little (ID-R),idedu idleg,5,3855
 Brad Little (ID-R),statewide stay,5,3855
-Brad Little (ID-R),idaho idleg,4,3855
 Brad Little (ID-R),idleg idedu,4,3855
 Brad Little (ID-R),public health,4,3855
 Brad Little (ID-R),white house,4,3855
 Brad Little (ID-R),career technical,3,3855
+Brad Little (ID-R),public television,3,3855
 Brian Kemp (GA-R),gt gt,18,9331
 Brian Kemp (GA-R),covid ー,11,9331
 Brian Kemp (GA-R),public health,10,9331
-Brian Kemp (GA-R),georgia gapol,9,9331
 Brian Kemp (GA-R),law enforcement,9,9331
 Brian Kemp (GA-R),families safe,8,9331
 Brian Kemp (GA-R),task force,8,9331
 Brian Kemp (GA-R),gapol update,7,9331
 Brian Kemp (GA-R),safe gapol,7,9331
 Brian Kemp (GA-R),coronavirus task,5,9331
+Brian Kemp (GA-R),difficult time,5,9331
 Charlie Baker (MA-R),health care,31,9213
 Charlie Baker (MA-R),massltgov masshhs,20,9213
 Charlie Baker (MA-R),masshhs sec,11,9213
@@ -78,7 +78,7 @@ Chris Sununu (NH-R),public health,9,13389
 Chris Sununu (NH-R),state’s response,9,13389
 Chris Sununu (NH-R),human services,8,13389
 Chris Sununu (NH-R),remote learning,8,13389
-Chris Sununu (NH-R),hampshire families,7,13389
+Chris Sununu (NH-R),sports betting,7,13389
 David Ige (HI-D),news conference,9,6048
 David Ige (HI-D),facebook live,5,6048
 David Ige (HI-D),live edition,5,6048
@@ -89,16 +89,16 @@ David Ige (HI-D),half staff,4,6048
 David Ige (HI-D),honolulu police,4,6048
 David Ige (HI-D),live news,4,6048
 David Ige (HI-D),quicker recovery,4,6048
-Doug Burgum (ND-R),north dakota,28,5790
-Doug Burgum (ND-R),north dakotans,9,5790
 Doug Burgum (ND-R),press briefing,9,5790
 Doug Burgum (ND-R),child care,8,5790
 Doug Burgum (ND-R),press conference,8,5790
 Doug Burgum (ND-R),today’s press,8,5790
 Doug Burgum (ND-R),social distancing,7,5790
 Doug Burgum (ND-R),health care,6,5790
-Doug Burgum (ND-R),north dakota's,6,5790
 Doug Burgum (ND-R),stay home,6,5790
+Doug Burgum (ND-R),nddoh confirmed,5,5790
+Doug Burgum (ND-R),watch today’s,5,5790
+Doug Burgum (ND-R),essential trips,4,5790
 Doug Ducey (AZ-R),public health,56,23503
 Doug Ducey (AZ-R),azbalanced budget,32,23503
 Doug Ducey (AZ-R),protect public,30,23503
@@ -139,7 +139,6 @@ Gavin Newsom (CA-D),it’s time,4,5554
 Gavin Newsom (CA-D),public health,4,5554
 Gavin Newsom (CA-D),record low,4,5554
 Gavin Newsom (CA-D),announcement tune,3,5554
-Gina Raimondo (RI-D),rhode islanders,12,9012
 Gina Raimondo (RI-D),child care,11,9012
 Gina Raimondo (RI-D),watch live,10,9012
 Gina Raimondo (RI-D),distance learning,8,9012
@@ -149,6 +148,7 @@ Gina Raimondo (RI-D),press conference,6,9012
 Gina Raimondo (RI-D),facebook page,5,9012
 Gina Raimondo (RI-D),job training,5,9012
 Gina Raimondo (RI-D),public pre,5,9012
+Gina Raimondo (RI-D),difficult time,4,9012
 Greg Abbott (TX-R),lone star,16,5548
 Greg Abbott (TX-R),human trafficking,15,5548
 Greg Abbott (TX-R),public health,8,5548
@@ -157,8 +157,8 @@ Greg Abbott (TX-R),heinous crime,5,5548
 Greg Abbott (TX-R),task force,5,5548
 Greg Abbott (TX-R),half staff,4,5548
 Greg Abbott (TX-R),protect public,4,5548
-Greg Abbott (TX-R),texas music,4,5548
 Greg Abbott (TX-R),assault survivors,3,5548
+Greg Abbott (TX-R),domestic violence,3,5548
 Gretchen Whitmer (MI-D),covid ー,12,5823
 Gretchen Whitmer (MI-D),health care,12,5823
 Gretchen Whitmer (MI-D),care workers,6,5823
@@ -169,8 +169,6 @@ Gretchen Whitmer (MI-D),stay safe,5,5823
 Gretchen Whitmer (MI-D),home stay,4,5823
 Gretchen Whitmer (MI-D),it’s time,4,5823
 Gretchen Whitmer (MI-D),michiganders safe,4,5823
-Henry McMaster (SC-R),south carolina,31,4218
-Henry McMaster (SC-R),south carolinians,10,4218
 Henry McMaster (SC-R),law enforcement,9,4218
 Henry McMaster (SC-R),executive budget,7,4218
 Henry McMaster (SC-R),free market,5,4218
@@ -178,7 +176,9 @@ Henry McMaster (SC-R),budget calls,4,4218
 Henry McMaster (SC-R),education reform,4,4218
 Henry McMaster (SC-R),official sources,4,4218
 Henry McMaster (SC-R),private parochial,4,4218
-Henry McMaster (SC-R),south carolina’s,4,4218
+Henry McMaster (SC-R),billion surplus,3,4218
+Henry McMaster (SC-R),capital investment,3,4218
+Henry McMaster (SC-R),follow recommendations,3,4218
 J. B. Pritzker (IL-D),health care,30,23640
 J. B. Pritzker (IL-D),federal government,18,23640
 J. B. Pritzker (IL-D),stay home,13,23640
@@ -188,17 +188,17 @@ J. B. Pritzker (IL-D),en casa,9,23640
 J. B. Pritzker (IL-D),public health,9,23640
 J. B. Pritzker (IL-D),child care,8,23640
 J. B. Pritzker (IL-D),social distancing,8,23640
-J. B. Pritzker (IL-D),rebuild illinois,7,23640
-Janet Mills (ME-D),maine people,27,4659
+J. B. Pritzker (IL-D),grocery stores,6,23640
 Janet Mills (ME-D),health care,11,4659
 Janet Mills (ME-D),care system,4,4659
 Janet Mills (ME-D),coronavirus covid,4,4659
 Janet Mills (ME-D),tax credit,4,4659
 Janet Mills (ME-D),coverage act,3,4659
 Janet Mills (ME-D),health coverage,3,4659
-Janet Mills (ME-D),maine cdc,3,4659
-Janet Mills (ME-D),maine health,3,4659
 Janet Mills (ME-D),offshore wind,3,4659
+Janet Mills (ME-D),affordable housing,2,4659
+Janet Mills (ME-D),blaine house,2,4659
+Janet Mills (ME-D),budget proposal,2,4659
 Jared Polis (CO-D),health care,22,5612
 Jared Polis (CO-D),ltgovofco mccluskieforco,14,5612
 Jared Polis (CO-D),presumptive positive,6,5612
@@ -208,7 +208,7 @@ Jared Polis (CO-D),watch live,5,5612
 Jared Polis (CO-D),affordable housing,4,5612
 Jared Polis (CO-D),care costs,4,5612
 Jared Polis (CO-D),coloradans money,4,5612
-Jared Polis (CO-D),colorado update,4,5612
+Jared Polis (CO-D),day kindergarten,4,5612
 Jay Inslee (WA-D),paidleavewa careerconnectwa,24,13161
 Jay Inslee (WA-D),waleg paidleavewa,24,13161
 Jay Inslee (WA-D),stay home,20,13161
@@ -219,19 +219,17 @@ Jay Inslee (WA-D),home stay,10,13161
 Jay Inslee (WA-D),social distancing,10,13161
 Jay Inslee (WA-D),stay healthy,10,13161
 Jay Inslee (WA-D),watch live,10,13161
-Jim Justice (WV-R),wv wvgov,113,11126
-Jim Justice (WV-R),west virginia,60,11126
-Jim Justice (WV-R),gov justice,30,11126
 Jim Justice (WV-R),live gov,28,11126
-Jim Justice (WV-R),west virginians,28,11126
 Jim Justice (WV-R),press briefing,14,11126
 Jim Justice (WV-R),toll free,13,11126
 Jim Justice (WV-R),holds press,11,11126
 Jim Justice (WV-R),free hotline,10,11126
 Jim Justice (WV-R),response march,10,11126
+Jim Justice (WV-R),state’s toll,9,11126
+Jim Justice (WV-R),grant funding,8,11126
+Jim Justice (WV-R),jobs hope,7,11126
+Jim Justice (WV-R),economic development,6,11126
 John Bel Edwards (LA-D),lagov lalege,469,19292
-John Bel Edwards (LA-D),louisiana lagov,30,19292
-John Bel Edwards (LA-D),gov edwards,26,19292
 John Bel Edwards (LA-D),childhood education,11,19292
 John Bel Edwards (LA-D),louisiana’s response,11,19292
 John Bel Edwards (LA-D),media briefing,10,19292
@@ -239,6 +237,8 @@ John Bel Edwards (LA-D),presumptive positive,10,19292
 John Bel Edwards (LA-D),public health,10,19292
 John Bel Edwards (LA-D),fellows program,9,19292
 John Bel Edwards (LA-D),social distancing,9,19292
+John Bel Edwards (LA-D),health care,8,19292
+John Bel Edwards (LA-D),baton rouge,7,19292
 John Carney (DE-D),stay home,15,8414
 John Carney (DE-D),public health,13,8414
 John Carney (DE-D),opportunity funding,10,8414
@@ -268,7 +268,7 @@ Kay Ivey (AL-R),economic development,6,9962
 Kay Ivey (AL-R),health care,5,9962
 Kay Ivey (AL-R),social distancing,5,9962
 Kay Ivey (AL-R),alpublichealth alabamaachieves,4,9962
-Kay Ivey (AL-R),criminal justice,4,9962
+Kay Ivey (AL-R),i’m pleased,4,9962
 Kevin Stitt (OK-R),health care,13,8352
 Kevin Stitt (OK-R),top ten,10,8352
 Kevin Stitt (OK-R),job creators,7,8352
@@ -286,19 +286,19 @@ Kim Reynolds (IA-R),public health,6,5511
 Kim Reynolds (IA-R),town hall,6,5511
 Kim Reynolds (IA-R),additional positive,5,5511
 Kim Reynolds (IA-R),based learning,4,5511
-Kim Reynolds (IA-R),iowa read,4,5511
-Kim Reynolds (IA-R),chief justice,3,5511
 Kim Reynolds (IA-R),community spread,3,5511
-Kristi Noem (SD-R),south dakota,49,6885
+Kim Reynolds (IA-R),emergency operations,3,5511
+Kim Reynolds (IA-R),entire nation,3,5511
 Kristi Noem (SD-R),covid ー,27,6885
-Kristi Noem (SD-R),south dakotans,7,6885
 Kristi Noem (SD-R),human trafficking,6,6885
-Kristi Noem (SD-R),south dakota’s,5,6885
 Kristi Noem (SD-R),hot springs,4,6885
-Kristi Noem (SD-R),sd producers,4,6885
 Kristi Noem (SD-R),economic progress,3,6885
 Kristi Noem (SD-R),emergency operations,3,6885
 Kristi Noem (SD-R),mount rushmore,3,6885
+Kristi Noem (SD-R),operations center,3,6885
+Kristi Noem (SD-R),potus vp,3,6885
+Kristi Noem (SD-R),press conference,3,6885
+Kristi Noem (SD-R),realdonaldtrump whitehouse,3,6885
 Larry Hogan (MD-R),baltimore city,6,1470
 Larry Hogan (MD-R),overwhelming majority,5,1470
 Larry Hogan (MD-R),city leaders,4,1470
@@ -307,18 +307,18 @@ Larry Hogan (MD-R),crime bills,3,1470
 Larry Hogan (MD-R),strongly support,3,1470
 Larry Hogan (MD-R),tougher sentences,3,1470
 Larry Hogan (MD-R),action fund,2,1470
-Larry Hogan (MD-R),change maryland,2,1470
 Larry Hogan (MD-R),comprehensive list,2,1470
+Larry Hogan (MD-R),continually failed,2,1470
 Laura Kelly (KS-D),stateofthestate ksleg,8,8219
 Laura Kelly (KS-D),kdhe website,6,8219
 Laura Kelly (KS-D),medicaid expansion,6,8219
 Laura Kelly (KS-D),week's kansan,6,8219
-Laura Kelly (KS-D),kansas city,5,8219
-Laura Kelly (KS-D),kansas department,5,8219
 Laura Kelly (KS-D),social distancing,5,8219
 Laura Kelly (KS-D),stay home,5,8219
 Laura Kelly (KS-D),supreme court,5,8219
 Laura Kelly (KS-D),aviation sector,4,8219
+Laura Kelly (KS-D),continuous learning,4,8219
+Laura Kelly (KS-D),recent layoffs,4,8219
 Mark Gordon (WY-R),social distancing,10,4120
 Mark Gordon (WY-R),staying home,6,4120
 Mark Gordon (WY-R),public health,5,4120
@@ -341,7 +341,6 @@ Michelle Lujan Grishom (NM-D),public safety,15,19525
 Michelle Lujan Grishom (NM-D),tax credit,15,19525
 Mike DeWine (OH-R),inthistogetherohio stayhomeohio,53,34778
 Mike DeWine (OH-R),save lives,20,34778
-Mike DeWine (OH-R),ohio counties,18,34778
 Mike DeWine (OH-R),stay home,18,34778
 Mike DeWine (OH-R),age range,17,34778
 Mike DeWine (OH-R),pbs stations,17,34778
@@ -349,6 +348,7 @@ Mike DeWine (OH-R),ohio's pbs,16,34778
 Mike DeWine (OH-R),npr affiliates,15,34778
 Mike DeWine (OH-R),ohio's npr,15,34778
 Mike DeWine (OH-R),affiliates online,14,34778
+Mike DeWine (OH-R),local media,14,34778
 Mike Dunleavy (AK-R),akleg akgov,31,4664
 Mike Dunleavy (AK-R),watch live,12,4664
 Mike Dunleavy (AK-R),public health,10,4664
@@ -357,21 +357,20 @@ Mike Dunleavy (AK-R),akgov akleg,7,4664
 Mike Dunleavy (AK-R),flattenthecurve akgov,7,4664
 Mike Dunleavy (AK-R),alaska's public,6,4664
 Mike Dunleavy (AK-R),resource development,6,4664
-Mike Dunleavy (AK-R),alaska reads,5,4664
 Mike Dunleavy (AK-R),officials watch,5,4664
+Mike Dunleavy (AK-R),reads act,5,4664
 Mike Parson (MO-R),st louis,29,22604
 Mike Parson (MO-R),workforce development,19,22604
-Mike Parson (MO-R),governor mike,18,22604
 Mike Parson (MO-R),president realdonaldtrump,18,22604
-Mike Parson (MO-R),mike parson,16,22604
 Mike Parson (MO-R),social distancing,16,22604
 Mike Parson (MO-R),law enforcement,13,22604
 Mike Parson (MO-R),press conference,13,22604
 Mike Parson (MO-R),public health,12,22604
-Mike Parson (MO-R),missouri visit,11,22604
+Mike Parson (MO-R),louis county,10,22604
+Mike Parson (MO-R),additional information,9,22604
+Mike Parson (MO-R),emergency personnel,9,22604
 Ned Lamont (CT-D),news briefing,51,21259
 Ned Lamont (CT-D),response efforts,33,21259
-Ned Lamont (CT-D),connecticut residents,27,21259
 Ned Lamont (CT-D),tested positive,27,21259
 Ned Lamont (CT-D),watch live,22,21259
 Ned Lamont (CT-D),public health,21,21259
@@ -379,27 +378,27 @@ Ned Lamont (CT-D),provide updates,20,21259
 Ned Lamont (CT-D),residents tested,16,21259
 Ned Lamont (CT-D),live online,15,21259
 Ned Lamont (CT-D),stream live,14,21259
+Ned Lamont (CT-D),live stream,12,21259
 Pete Ricketts (NE-R),property tax,23,9929
 Pete Ricketts (NE-R),tax relief,20,9929
-Pete Ricketts (NE-R),gov ricketts,14,9929
-Pete Ricketts (NE-R),pete ricketts,12,9929
 Pete Ricketts (NE-R),president realdonaldtrump,10,9929
-Pete Ricketts (NE-R),gov pete,9,9929
 Pete Ricketts (NE-R),town hall,9,9929
 Pete Ricketts (NE-R),live stream,8,9929
 Pete Ricketts (NE-R),online link,8,9929
 Pete Ricketts (NE-R),watch gov,8,9929
+Pete Ricketts (NE-R),watch online,8,9929
+Pete Ricketts (NE-R),weekly column,7,9929
+Pete Ricketts (NE-R),business owners,4,9929
 Phil Murphy (NJ-D),health care,59,33153
 Phil Murphy (NJ-D),social distancing,49,33153
 Phil Murphy (NJ-D),public health,37,33153
 Phil Murphy (NJ-D),positive tests,27,33153
-Phil Murphy (NJ-D),governor murphy,26,33153
 Phil Murphy (NJ-D),statewide stats,23,33153
-Phil Murphy (NJ-D),jersey family,18,33153
 Phil Murphy (NJ-D),stay home,18,33153
 Phil Murphy (NJ-D),middle class,17,33153
 Phil Murphy (NJ-D),njprogress strongerfairernj,17,33153
-Phil Scott (VT-R),african american,7,8207
+Phil Murphy (NJ-D),presumptive positive,17,33153
+Phil Murphy (NJ-D),stats positive,17,33153
 Phil Scott (VT-R),budget includes,6,8207
 Phil Scott (VT-R),essex county,5,8207
 Phil Scott (VT-R),stay home,5,8207
@@ -409,6 +408,7 @@ Phil Scott (VT-R),mental health,4,8207
 Phil Scott (VT-R),mitigation steps,4,8207
 Phil Scott (VT-R),public health,4,8207
 Phil Scott (VT-R),save lives,4,8207
+Phil Scott (VT-R),beecher falls,3,8207
 Ralph Northam (VA-D),public health,18,8638
 Ralph Northam (VA-D),health care,9,8638
 Ralph Northam (VA-D),watch live,8,8638
@@ -416,29 +416,29 @@ Ralph Northam (VA-D),health crisis,7,8638
 Ralph Northam (VA-D),it’s time,6,8638
 Ralph Northam (VA-D),response efforts,6,8638
 Ralph Northam (VA-D),commonsense gun,5,8638
-Ralph Northam (VA-D),criminal justice,5,8638
 Ralph Northam (VA-D),emergency support,5,8638
 Ralph Northam (VA-D),gun safety,5,8638
+Ralph Northam (VA-D),support team,5,8638
 Ron DeSantis (FL-R),hurricane recovery,5,4214
 Ron DeSantis (FL-R),i’m pleased,5,4214
-Ron DeSantis (FL-R),de covid,4,4214
 Ron DeSantis (FL-R),low taxes,4,4214
 Ron DeSantis (FL-R),actualización visite,3,4214
 Ron DeSantis (FL-R),communities recover,3,4214
-Ron DeSantis (FL-R),florida remains,3,4214
 Ron DeSantis (FL-R),grant program,3,4214
 Ron DeSantis (FL-R),health care,3,4214
 Ron DeSantis (FL-R),hurricane michael,3,4214
-Roy Cooper (NC-D),gov cooper,61,7191
-Roy Cooper (NC-D),north carolina,37,7191
-Roy Cooper (NC-D),north carolinians,31,7191
+Ron DeSantis (FL-R),legislative session,3,4214
+Ron DeSantis (FL-R),low income,3,4214
 Roy Cooper (NC-D),task force,22,7191
 Roy Cooper (NC-D),coronavirus task,21,7191
 Roy Cooper (NC-D),health care,14,7191
-Roy Cooper (NC-D),cooper coronavirus,8,7191
 Roy Cooper (NC-D),force update,8,7191
 Roy Cooper (NC-D),it’s time,8,7191
 Roy Cooper (NC-D),finish line,7,7191
+Roy Cooper (NC-D),yesterday gov,7,7191
+Roy Cooper (NC-D),community college,6,7191
+Roy Cooper (NC-D),car repair,5,7191
+Roy Cooper (NC-D),coverage gap,5,7191
 Steve Bullock (MT-D),public health,10,5185
 Steve Bullock (MT-D),social distancing,7,5185
 Steve Bullock (MT-D),public lands,6,5185
@@ -465,10 +465,10 @@ Tate Reeves (MS-R),inauguration day,7,9548
 Tate Reeves (MS-R),law enforcement,6,9548
 Tate Reeves (MS-R),stay home,6,9548
 Tate Reeves (MS-R),local news,5,9548
-Tate Reeves (MS-R),ms trailblazing,5,9548
 Tate Reeves (MS-R),trailblazing woman,5,9548
-Tate Reeves (MS-R),amazing mississippi,4,9548
 Tate Reeves (MS-R),amazing time,4,9548
+Tate Reeves (MS-R),brighter future,4,9548
+Tate Reeves (MS-R),dr dobbs,4,9548
 Tim Walz (MN-D),covid ー,17,6679
 Tim Walz (MN-D),health care,12,6679
 Tim Walz (MN-D),care providers,11,6679

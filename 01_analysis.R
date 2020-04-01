@@ -156,6 +156,29 @@ bigrams_filtered <- bigrams_separated %>%
   filter(!str_detect(word2, "t.co")) 
 
 
+# remove state and governor names using dfs created in previous section
+
+#run the anti-joins on both word1 and word2 to capture both placements
+bigrams_filtered <- bigrams_filtered %>%
+  anti_join(state_abbs, by = c("word1" = "word"))
+
+bigrams_filtered <- bigrams_filtered %>%
+  anti_join(state_abbs, by = c("word2" = "word"))
+
+bigrams_filtered <- bigrams_filtered %>%
+  anti_join(state_names, by = c("word1" = "word"))
+
+bigrams_filtered <- bigrams_filtered %>%
+  anti_join(state_names, by = c("word2" = "word"))
+
+bigrams_filtered <- bigrams_filtered %>%
+  anti_join(govnames, by = c("word1" = "word"))
+
+bigrams_filtered <- bigrams_filtered %>%
+  anti_join(govnames, by = c("word2" = "word"))
+
+
+
 # new bigram counts:
 bigram_counts <- bigrams_filtered %>% 
   count(speaker, word1, word2, sort = TRUE)
